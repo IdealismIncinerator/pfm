@@ -16,7 +16,7 @@ import java.util.List;
 import java.util.jar.JarEntry;
 import java.util.jar.JarInputStream;
 
-// Copyright 2020, Idealism Incinerator. All Rights Reserved.
+// Copyright 2020, Idealism Incinerator.
 
 public class Modifications {
     public static void start() {
