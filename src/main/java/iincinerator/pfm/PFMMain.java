@@ -6,7 +6,7 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
 import java.io.IOException;
 
-// Copyright 2020, Idealism Incinerator. All Rights Reserved.
+// Copyright 2020, Idealism Incinerator.
 
 @Mod("pfm")
 public class PFMMain {
