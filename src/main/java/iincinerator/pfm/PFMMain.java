@@ -4,7 +4,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
-// Copyright 2020, Idealism Incinerator. All Rights Reserved.
+// Copyright 2020, Idealism Incinerator.
 
 @Mod("pfm")
 public class PFMMain {
