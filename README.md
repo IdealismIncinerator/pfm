@@ -1,2 +1,5 @@
-# Politics-Free Mine
-Forge mod that removes political ads from Minecraft 1.15/1.16.
+# PFM
+"Politics-Free Mine" - Removes all politics from Minecraft mods.
+
+
+© 2020 Idealism Incinerator.
